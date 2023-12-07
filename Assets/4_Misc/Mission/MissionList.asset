@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75318855ce8de954396cc2ff276f79df, type: 3}
+  m_Name: MissionList
+  m_EditorClassIdentifier: 
+  Missions:
+  - MissionID: 0
+    MissionType: 0
+    Name: Collect 10 Balls
+    Description: Collect 10 Balls
+    CollectItemType: 1
+    TargetAmount: 10
+    MissionDifficulty: 0
+    RewardData:
+      RewardName: 0
+      Amount: 100
+  - MissionID: 1
+    MissionType: 1
+    Name: 2 Level Complete
+    Description: 2 Level Complete
+    CollectItemType: 1
+    TargetAmount: 2
+    MissionDifficulty: 1
+    RewardData:
+      RewardName: 1
+      Amount: 5
+  - MissionID: 2
+    MissionType: 2
+    Name: Complete a Level 60 seconds
+    Description: Complete a Level 60 seconds
+    CollectItemType: 1
+    TargetAmount: 60
+    MissionDifficulty: 2
+    RewardData:
+      RewardName: 2
+      Amount: 2
+  - MissionID: 3
+    MissionType: 1
+    Name: 1 Level Complete
+    Description: 1 Level Complete
+    CollectItemType: 1
+    TargetAmount: 1
+    MissionDifficulty: 0
+    RewardData:
+      RewardName: 0
+      Amount: 5

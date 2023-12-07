@@ -1,0 +1,56 @@
+{
+    "Missions": [
+        {
+            "MissionID": 0,
+            "MissionType": 0,
+            "Name": "Collect 10 Balls",
+            "Description": "Collect 10 Balls",
+            "CollectItemType": 1,
+            "TargetAmount": 10,
+            "MissionDifficulty": 0,
+            "RewardData": {
+                "RewardName": 0,
+                "Amount": 100
+            }
+        },
+        {
+            "MissionID": 1,
+            "MissionType": 1,
+            "Name": "2 Level Complete",
+            "Description": "2 Level Complete",
+            "CollectItemType": 0,
+            "TargetAmount": 2,
+            "MissionDifficulty": 1,
+            "RewardData": {
+                "RewardName": 1,
+                "Amount": 5
+            }
+        },
+        {
+            "MissionID": 2,
+            "MissionType": 2,
+            "Name": "Complete a Level 60 seconds",
+            "Description": "Complete a Level 60 seconds",
+            "CollectItemType": 0,
+            "TargetAmount": 60,
+            "MissionDifficulty": 2,
+            "RewardData": {
+                "RewardName": 2,
+                "Amount": 2
+            }
+        },
+        {
+            "MissionID": 3,
+            "MissionType": 1,
+            "Name": "1 Level Complete",
+            "Description": "1 Level Complete",
+            "CollectItemType": 0,
+            "TargetAmount": 1,
+            "MissionDifficulty": 0,
+            "RewardData": {
+                "RewardName": 0,
+                "Amount": 5
+            }
+        }
+    ]
+}
