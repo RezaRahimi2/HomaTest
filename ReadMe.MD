@@ -231,5 +231,4 @@ The dynamic generation of reward classes and enums adds a powerful extension to 
 
 *also I fixed the Build Tower in Editor
 
-https://youtu.be/9uvsUwp42Sc
 [![Video Title](http://i3.ytimg.com/vi/9uvsUwp42Sc/hqdefault.jpg)](https://youtu.be/9uvsUwp42Sc)
